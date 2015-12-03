@@ -25,9 +25,7 @@ ul.posts li { list-style: none; }
 .cv h1 { font-size: 3em; }
 .cv h2 { font-size: 2em; }
 .cv address, .cv .download, .cv .CV_PDF { font-family: 'Helvetica', 'Arial', 'Sans-Serif'; }
-.cv address { font-size: 1.2em; }
-.cv p { font-size: 3em; }
-ul.cv li { font-size: 0.5em; }
-.cv .download { float: right; font-size: .8em; text-transform: uppercase; }
-.cv .CV_PDF { float: right; font-size: .8em; text-transform: uppercase; }
+.cv address, .cv p { font-size: 1.2em; }
+.cv ul { font-size: 3em; }
+.cv .download, .cv .CV_PDF { float: right; font-size: .8em; text-transform: uppercase; }
 
