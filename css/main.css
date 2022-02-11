@@ -30,3 +30,10 @@ ul.posts li { list-style: none; }
 .cv address, .cv p { font-size: 1.2em; }
 .cv ul { font-size: 1em; }
 .cv .download, .cv .CV_PDF { float: right; font-size: .8em; text-transform: uppercase; }
+
+
+.img-circle {
+  -webkit-border-radius: 500px;
+     -moz-border-radius: 500px;
+          border-radius: 500px;
+}
