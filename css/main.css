@@ -32,8 +32,4 @@ ul.posts li { list-style: none; }
 .cv .download, .cv .CV_PDF { float: right; font-size: .8em; text-transform: uppercase; }
 
 
-.img-circle {
-  -webkit-border-radius: 50%;
-     -moz-border-radius: 50%;
-          border-radius: 50%;
-}
+.img-circle { border-radius: 50%; }
