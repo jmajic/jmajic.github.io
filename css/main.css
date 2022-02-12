@@ -1,3 +1,6 @@
+@import url(http://fonts.googleapis.com/css?family=Merriweather:300,300italic,400,400italic,700,700italic);
+@import url(http://fonts.googleapis.com/css?family=Montserrat);
+
 body { margin: 60px auto; width: 70%; }
 
 a { text-decoration: none; color: #999; }
@@ -7,13 +10,13 @@ p, ul { font-size: 1.5em; line-height: 1.4em; color: #333; }
 p { margin-bottom: 0; }
 ul { margin: 0; list-style-type: square; }
 
-h1, h2, h3, h4 { font-family: 'Helvetica', 'Arial', 'Sans-Serif'; }
+h1, h2, h3, h4 { font-family: 'Montserrat', 'Arial', 'Sans-Serif'; }
 h1 { font-size: 3em;  }
 h2 { font-size: 2.7em; }
 h3 { font-size: 2.3em; }
 h4 { font-size: 1.9em; }
 
-nav ul, footer ul { font-size: 1em; font-family: 'Helvetica', 'Arial', 'Sans-Serif'; padding: 0px; list-style: none; font-weight: bold; }
+nav ul, footer ul { font-size: 1em; font-family: 'Montserrat', 'Arial', 'Sans-Serif'; padding: 0px; list-style: none; font-weight: bold; }
 nav ul li, footer ul li { display: inline; margin-right: 20px; }
 
 footer { border-top: 1px solid #d5d5d5; font-size: .8em; margin-top:10px;}
@@ -26,7 +29,7 @@ ul.posts li { list-style: none; }
 .cv { margin: 0px 0px 60px; }
 .cv h1 { font-size: 3em; }
 .cv h2 { font-size: 2em; }
-.cv address, .cv .download, .cv .CV_PDF { font-family: 'Helvetica', 'Arial', 'Sans-Serif'; }
+.cv address, .cv .download, .cv .CV_PDF { font-family: 'Montserrat', 'Arial', 'Sans-Serif'; }
 .cv address, .cv p { font-size: 1.2em; }
 .cv ul { font-size: 1em; }
 .cv .download, .cv .CV_PDF { float: right; font-size: .8em; text-transform: uppercase; }
