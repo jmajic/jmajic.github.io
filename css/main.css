@@ -1,7 +1,7 @@
-@import url(http://fonts.googleapis.com/css?family=Merriweather:300,300italic,400,400italic,700,700italic);
+@import url('https://fonts.googleapis.com/css2?family=Arvo:ital,wght@0,400;0,700;1,400;1,700&display=swap');
 @import url(http://fonts.googleapis.com/css?family=Montserrat);
 
-body { margin: 60px auto; width: 70%; }
+body { padding-top: 20px; padding-bottom: 40px; font-family: 'Arvo', Georgia, Times; font-size: 16px; }
 
 a { text-decoration: none; color: #999; }
 a:hover { text-decoration: underline; }
@@ -10,7 +10,8 @@ p, ul { font-size: 1.5em; line-height: 1.4em; color: #333; }
 p { margin-bottom: 0; }
 ul { margin: 0; list-style-type: square; }
 
-h1, h2, h3, h4 { font-family: 'Montserrat', 'Arial', 'Sans-Serif'; }
+/* h1, h2, h3, h4 { font-family: 'Montserrat', 'Arial', 'Sans-Serif'; } */
+h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 { font-family: 'Arvo', Georgia, Times; font-weight: 700;}
 h1 { font-size: 3em;  }
 h2 { font-size: 2.7em; }
 h3 { font-size: 2.3em; }
