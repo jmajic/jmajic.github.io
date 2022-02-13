@@ -38,6 +38,11 @@ h3.text-muted a:hover { background-color: #00abcd; }
   margin-left: 3px;
 }
 
+.pill-nav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
 
 /* a { text-decoration: none; color: #999; } */
 /* a:hover { text-decoration: underline; } */
