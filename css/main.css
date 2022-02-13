@@ -7,6 +7,7 @@ body { margin: 60px auto; width: 70%; font-family: 'Arvo', Georgia, Times; font-
 /* Navigation */
 h3.text-muted a {text-decoration: none; color: #999999; }
 h3.text-muted a:hover { text-decoration: none; color: #009b77; }
+h3.text-muted a:hover { background-color: #00abcd; }
 
 /* a { text-decoration: none; color: #999; } */
 /* a:hover { text-decoration: underline; } */
