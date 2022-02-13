@@ -38,8 +38,8 @@ h3.text-muted a:hover { background-color: #00abcd; }
   margin-left: 3px;
 }
 
-.pill-nav a:hover {
-  background-color: #ddd;
+.nav-pills a:hover {
+  background-color: #00abcd;
   color: black;
 }
 
