@@ -7,19 +7,18 @@ body { margin: 60px auto; width: 70%; font-family: 'Arvo', Georgia, Times; font-
 /* Navigation */
 h3.text-muted a {text-decoration: none; color: #999999; }
 h3.text-muted a:hover { text-decoration: none; color: #009b77; }
-/* h3.text-muted a:hover { background-color: #00abcd; } */
 .nav-pills .nav-link a:hover {
   background-color: #00abcd;
   color: black;
 }
 
-
-/* a { text-decoration: none; color: #999; } */
-/* a:hover { text-decoration: underline; } */
+a { text-decoration: none; color: #999; }
+a:hover { text-decoration: underline; }
 
 /*p, ul { font-size: 1.5em; line-height: 1.4em; color: #333; }*/
 p { margin-bottom: 0; }
 ul { margin: 0; list-style-type: square; }
+
 
 h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 . { font-family: 'Arvo', 'Georgia', 'Times'; }
 /* h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 { font-family: 'Arvo', Georgia, Times; font-weight: 700;} */
