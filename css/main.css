@@ -15,6 +15,9 @@ h3.text-muted a:hover { text-decoration: none; color: #009b77; }
 a { text-decoration: none; color: #999999; }
 /* a:hover { text-decoration: underline; } */
 
+/* Custom container */
+.container > hr { margin: 30px 0; }
+.container > hr.footer {margin-bottom: 15px; }
 
 
 /*p, ul { font-size: 1.5em; line-height: 1.4em; color: #333; }*/
