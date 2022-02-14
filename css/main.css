@@ -27,10 +27,9 @@ a { text-decoration: none; color: #999999; }
 
 /* Header style */
 .page-header {
-  padding-bottom: 9px;
   border-bottom: 1px solid #d5d5d5;
+  margin-bottom:10px;
 }
-
 
 /*p, ul { font-size: 1.5em; line-height: 1.4em; color: #333; }*/
 p { margin-bottom: 0; }
