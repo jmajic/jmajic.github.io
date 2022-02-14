@@ -8,8 +8,9 @@ body { margin: 60px auto; width: 70%; padding-top: 20px; padding-bottom: 40px; f
 /* Navigation */
 .footer a, h3.text-muted a {text-decoration: none; color: #999999; }
 h3.text-muted a:hover { text-decoration: none; color: #009b77; }
+h3.text-muted a:hover { text-decoration: none; color: #009b77; }
+h1 {text-decoration: none; color: black; }
 
-/* h3.text-muted a:hover { background-color: #00abcd; } */
 .nav-pills a:hover {
   background-color: #eeeeee;
   color: black;
@@ -50,4 +51,15 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 . { font-family: 'Arvo', 'G
 .nav ul, .footer ul { font-size: 1em; font-family: 'Inconsolata', 'Arial', 'Sans-Serif'; padding: 0px; list-style: none; font-weight: bold; }
 .nav ul li, .footer ul li { display: inline; margin-right: 20px; }
 
-.footer { border-top: 1px solid #d5d5d5; margin-top:10px;}
+/* .footer { border-top: 1px solid #d5d5d5; margin-top:10px;} */
+
+/* CSS Classes from Stepner */
+.info,.notes,.contact,.about,.error{margin-bottom:30px}
+.info,.note,.contact,.about,.error{width:85%;margin:0 auto;line-height:26px;clear:both}
+.coauthor{color:#555;font-weight:300;font-size:90%}
+.statatitle{padding-right:3px}
+.researchpaper{line-height:20px;margin-bottom:15px}
+.researchpaper p,h4{margin-bottom:4px}
+.researchabstract{font-size:14px;margin-bottom:30px}
+.abstract{margin-left:30px;font-size:95%}
+
