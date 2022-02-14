@@ -14,16 +14,9 @@ h3.text-muted a:hover { text-decoration: none; color: #009b77; }
   color: black;
 }
 
-.nav-pills > li.active > a, .nav-pills > li.active > a:focus {
-  color: black;
-  background-color: #fcd900;
+.nav-pills > li > a.active {
+    background-color: #ff0000 !important;
 }
-
-.nav-pills > li.active > a:hover {
-  background-color: #efcb00;
-  color:black;
-}
-
 
 a { text-decoration: none; color: #999999; }
 /* a:hover { text-decoration: underline; } */
