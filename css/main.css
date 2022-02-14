@@ -8,16 +8,16 @@ body { margin: 60px auto; width: 70%; padding-top: 20px; padding-bottom: 40px; f
 /* Navigation */
 .footer a, h3.text-muted a {text-decoration: none; color: #999999; }
 h3.text-muted a:hover { text-decoration: none; color: #009b77; }
-#cb6586
+
 /* h3.text-muted a:hover { background-color: #00abcd; } */
 .nav-pills a:hover {
   background-color: #eeeeee;
   color: black;
 }
 
-/* .nav-pills > li > a.active {
+.nav-pills > li > a.active {
     background-color: #cb6586 !important;
-} */
+}
 
 a { text-decoration: none; color: #999999; }
 /* a:hover { text-decoration: underline; } */
