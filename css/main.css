@@ -1,9 +1,14 @@
 @import url('https://fonts.googleapis.com/css2?family=Arvo:ital,wght@0,400;0,700;1,400;1,700&display=swap');
-@import url(http://fonts.googleapis.com/css?family=Montserrat);
+/* @import url(http://fonts.googleapis.com/css?family=Montserrat); */
 @import url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@200;300;400;500;600;700;800;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@200;300;400;500;600;700;800;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto Mono:wght@200;300;400;500;600;700;800;900&display=swap');
 
-/* body { margin: 60px auto; width: 70%; font-family: 'Arvo', Georgia, Times; font-size: 16px; } */
-body { margin: 60px auto; width: 70%; padding-top: 20px; padding-bottom: 40px; font-family: 'Arvo', Georgia, Times; font-size: 16px; }
+href='https://fonts.googleapis.com/css?family=Roboto'
+
+
+/* body { margin: 60px auto; width: 70%; font-family: 'Roboto', Georgia, Times; font-size: 16px; } */
+body { margin: 60px auto; width: 70%; padding-top: 20px; padding-bottom: 40px; font-family: 'Roboto', Georgia, Times; font-size: 16px; }
 
 /* Navigation */
 .footer a, h3.text-muted a {text-decoration: none; color: #999999; }
@@ -40,14 +45,14 @@ img.avatar { margin-bottom: 30px; }
 p { margin-bottom: 0; }
 ul { margin: 0; list-style-type: square; }
 
-h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 . { font-family: 'Arvo', 'Georgia', 'Times';}
-/* h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 { font-family: 'Arvo', Georgia, Times; font-weight: 700;} */
+h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 . { font-family: 'Roboto', 'Georgia', 'Times';}
+/* h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 { font-family: 'Roboto', Georgia, Times; font-weight: 700;} */
 
 
 /* Sans-Serif Font in Header and Footer */
-.header, .footer, .header h3, .page-header, .page-header h3 { font-family: 'Inconsolata', Helvetica, sans-serif; text-transform: uppercase; font-weight: normal; }
-.nav ul, .footer ul { font-size: 1em; font-family: 'Inconsolata', 'Arial', 'Sans-Serif'; padding: 0px; list-style: none; font-weight: bold; }
-.nav ul, .footer ul { font-size: 1em; font-family: 'Inconsolata', 'Arial', 'Sans-Serif'; padding: 0px; list-style: none; font-weight: bold; }
+.header, .footer, .header h3, .page-header, .page-header h3 { font-family: 'Roboto Mono', Helvetica, sans-serif; text-transform: uppercase; font-weight: normal; }
+.nav ul, .footer ul { font-size: 1em; font-family: 'Roboto Mono', 'Arial', 'Sans-Serif'; padding: 0px; list-style: none; font-weight: bold; }
+.nav ul, .footer ul { font-size: 1em; font-family: 'Roboto Mono', 'Arial', 'Sans-Serif'; padding: 0px; list-style: none; font-weight: bold; }
 .nav ul li, .footer ul li { display: inline; margin-right: 20px; }
 
 /* .footer { border-top: 1px solid #d5d5d5; margin-top:10px;} */
