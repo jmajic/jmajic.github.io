@@ -62,7 +62,7 @@ h4 a, h5 a, h6 a{text-decoration: none; }
 /* CSS Classes from Stepner */
 .info,.notes,.contact,.about,.error{margin-bottom:30px}
 .info,.note,.contact,.about,.error{width:100%;margin:0 auto;line-height:26px;clear:both}
-.coauthor{color:#555;font-weight:300;font-size:90%}
+.coauthor{color:#222;font-weight:300;font-size:90%}
 .statatitle{padding-right:3px}
 .researchpaper{line-height:20px;margin-bottom:15px}
 .researchpaper p,h5{margin-bottom:4px}
